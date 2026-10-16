@@ -1,0 +1,9 @@
+[
+  {
+    "hostname": "example.com",
+    "username": "myuser",
+    "password": "will-be-encrypted-on-first-run",
+    "port": 22,
+    "profile_name": "ExampleServer"
+  }
+]

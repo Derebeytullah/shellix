@@ -1,1 +1,5 @@
 /target
+profiles.json
+shellix.salt
+shellix.pin
+known_hosts.json
